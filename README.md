@@ -1,2 +1,4 @@
-# rezarostaminikoo.github.io
-this is my personal static website
+### TODOs
+[] create a static website with nextjs
+[] add post folder to store my posts
+[] add search ability to the site
